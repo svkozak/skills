@@ -1,6 +1,6 @@
 # skills
 
-Collection of reusable skills for the pi coding agent.
+Collection of reusable skills for the pi coding agent (or any other agent supporting [skills](https://agentskills.io/home)).
 
 ## Contents
 
