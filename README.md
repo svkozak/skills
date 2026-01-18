@@ -1,6 +1,6 @@
-# skills
+# Agent Skills
 
-Collection of reusable skills for the pi coding agent (or any other agent supporting [skills](https://agentskills.io/home)).
+Collection of reusable skills for my `pi` coding agent (or any other agent supporting [agent skills](https://agentskills.io/home)).
 
 ## Contents
 
@@ -9,7 +9,4 @@ Collection of reusable skills for the pi coding agent (or any other agent suppor
 ## Usage
 
 Each skill folder contains a `SKILL.md` with instructions and any supporting assets or scripts.
-
-## Contributing
-
-Add new skills as folders at the repo root with a `SKILL.md` and any required assets/scripts.
+Drop the folder into your agent's `skills` directory (e.g. `~/.pi/agent/skills` or `~/.codex/skills/public/`)
